@@ -4,6 +4,8 @@
 
 In January 2019 we published the first story by a new member of the data unit, **Rob England**, that [one in three girls in some parts of the UK did not have their full vaccination at school against HPV, the virus that can cause cervical cancer, in 2017-18](https://www.bbc.co.uk/news/uk-england-46953452).
 
+The story was based on analysis of [public data](https://www.gov.uk/government/statistics/hpv-vaccine-coverage-annual-report-for-2017-to-2018), alongside follow-up interviews with the publisher of the data, NHS trusts with low take-up rates, charities, and a case study.
+
 ## Get the data
 
 * Public Health England: [HPV vaccine coverage annual report for 2017 to 2018](https://www.gov.uk/government/statistics/hpv-vaccine-coverage-annual-report-for-2017-to-2018)
